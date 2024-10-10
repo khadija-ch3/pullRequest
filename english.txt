@@ -1,0 +1,40 @@
+﻿Ex1 :
+1, true
+2. true
+3. false
+4. true
+5.true 
+
+Ex 2 :
+1.A  good morning , can i help you ?
+B . Yes , i’m looking for the Banking Plus exihibit .
+
+2. B excuse me . Can you tell me where exihibit 345 is ?
+B . let me check .it’s an exihibit of apps for the atomobile industry .it’s over there with the red sign.
+
+A.  i see it ,thanks .
+
+3. A I’m interested in Software for education .
+B.   Just a moment … OK , you want exhibit numbers 107 , 159 and 96 . here’s a map to help you .
+
+A . THANK YOU .
+B, You’re welcome . Enjiy the exhibition . 
+
+Page 5 Ex 6 :
+1,data
+2. apps
+3. hardware
+4. software .
+
+Ex 7 :
+1, A  health ==> d , this hospital 
+2, f
+3, education ==> a
+4, manufactury ==> g
+5,  banking ==> c
+6. busnisess and retail ==> e
+7, hospitality and leisure ==> g
+
+
+
+
