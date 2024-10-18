@@ -34,7 +34,7 @@ Ex 7 :
 5,  banking ==> c
 6. busnisess and retail ==> e
 7, hospitality and leisure ==> g
-
+make a modification on a file
 
 
 
